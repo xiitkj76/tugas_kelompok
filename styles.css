@@ -1,0 +1,41 @@
+/* Style Dasar */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Container Utama */
+  .cv-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  }
+  
+  /* Header */
+  .cv-header {
+    text-align: center;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 3px solid #3498db;
+  }
+  
+  .cv-name {
+    font-size: 32px;
+    font-weight: 700;
+    color: #2c3e50;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+  }
+  
+  .cv-title {
+    font-size: 18px;
+    color: #7f8c8d;
+    font-weight: 400;
+    margin-bottom: 15px;
+  }
