@@ -1,6 +1,6 @@
 # 📄 CV Digital - Joel Adrianus Lase
 
-![Preview CV](./assets/preview-cv.jpg)  
+![Preview CV](./assets/preview-cv.png)  
 *Tampilan CV Digital Responsif*
 
 ## 🌟 Deskripsi Proyek
