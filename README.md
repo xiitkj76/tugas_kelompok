@@ -1,6 +1,6 @@
 # 🌟 Proyek Kelompok - CV Digital
 
-![Preview Joel Projects](assets/preview-cv-joe.png)  
+![Preview Joel Projects](assets/preview-cv-joel.png)  
 ![Preview Boris Projects](assets/preview-cv-boris.png)  
 ![Preview Fadill Projects](assets/preview-cv-fadill.png)  
 *Kumpulan CV digital anggota tim*
